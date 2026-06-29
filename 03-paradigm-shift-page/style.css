@@ -1,0 +1,197 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-paradigm {
+    background-color: #36f7ba;
+    padding: 28px;
+}
+.paradigm-heading {
+    font-size: 50px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.paradigm-text {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 400;
+    width: 300px;
+}
+.girl-image {
+    height: 400px;
+    width: 381px;
+}
+.bg-magna {
+    background-color: #36f7ba;
+    padding: 30px;
+}
+.magna-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 24px;
+}
+.bg-text {
+    padding: 28px;
+}
+.magna-text {
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+.boy-image {
+    height: 200px;
+    width: 381px;
+}
+.bg-boy-image {
+    padding: 24px;
+}
+.bg-feugiat {
+    background-color: #36f7ba;
+    padding: 28px;
+}
+.feugiat-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.feugiat-container {
+    padding: 20px;
+}
+.feugiat-sub-text {
+    font-family: "Roboto";
+    font-size: 14px;
+    
+}
+.order-list {
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.feugiat-para {
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.bg-ultrices {
+    background-color: #36f7ba;
+    padding: 28px;
+}
+.ultrices-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+}
+.ultrices-text-container {
+    padding: 28px;
+}
+.integer-para {
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.erat-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+}
+.erat-para {
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.images-container {
+    
+}
+.image1 {
+    height: 240px;
+    width: 380px;
+}
+.image2-container {
+    
+}
+.image2 {
+    height: 200px;
+    width: 180px;
+}
+.image3 {
+    height: 200px;
+    width: 180px;
+}
+.image4 {
+    height: 240px;
+    width: 380px;
+}
+.nisl-container {
+    padding: 28px;
+}
+.nisl-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+}
+.nisl-para {
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.college-image {
+    height: 240px;
+    width: 380px;
+}
+.shoes-image {
+    height: 200px;
+    width: 180px;
+}
+.study-image {
+    height: 200px;
+    width: 180px;
+}
+.lorem-container {
+    padding: 28px;
+}
+.lorem-heading {
+    font-family: "Roboto";
+    font-size: 24px;
+}
+.lorem-para {
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.mountain-image {
+    height: 200px;
+    width: 180px;
+}
+.steps-walk-image {
+    height: 200px;
+    width: 180px;
+}
+.mall-image {
+    height: 200px;
+    width: 380px;
+}
+.bg-duis-container {
+    padding: 28px;
+    background-color: #36f7ba;
+}
+.duis-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+}
+.duis-para {
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.button1 {
+    height: 45px;
+    width: 270px;
+    margin: 10px;
+    background-color: #36f7ba;
+    border-width: 0px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.button2 {
+    height: 45px;
+    width: 270px;
+    margin: 10px;
+    background-color: #ffffff;
+    border-width: 2px;
+    border-color: #b7c4c0;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.duis-container {
+    padding: 28px;
+}
