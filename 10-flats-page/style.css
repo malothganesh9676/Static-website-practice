@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.first-page-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.first-page-card-container {
+    background-color: #ffffff;
+    text-align: center;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    padding: 30px;
+}
+
+.first-page-card-heading {
+    font-size: 20px;
+    font-family: "Bree serif";
+    color: #f19116;
+}
+
+.first-page-card-para {
+    color: #7b8794;
+    font-family: "Bree serif";
+    font-size: 12px;
+}
+
+.first-page-button {
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 11px;
+    height: 25px;
+    width: 70px;
+    border-width: 0px;
+}
+
+.second-page-bg-container {
+    background-color: #222222;
+    padding: 18px;
+}
+
+.card-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.sunrice-heading {
+    color: #f19116;
+    font-size: 25px;
+    font-family: "Bree serif";
+}
+
+.flat-image {
+    height: 140px;
+    width: 70px;
+}
+
+.flat-heading {
+    color: #0f0e48;
+    font-size: 18px;
+    font-family: "Bree serif";
+}
+
+.flat-para {
+    color: #7b8794;
+    font-size: 10px;
+    font-family: "Bree serif";
+}
+
+.flat-text-container {
+    padding: 10px;
+}
+
+.second-page-bg-button {
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    background-color: #f19116;
+    color: #ffffff;
+    border-width: 0px;
+    font-size: 12px;
+    margin-top: 30px;
+
+}
+
+.flat-card-image {
+    width: 100vw;
+}
+
+.third-page-card-container {
+    background-color: #222222;
+    padding: 18px;
+}
+
+
+.third-page-price {
+    color: #f19116;
+    font-size: 20px;
+    font-family: "Bree serif";
+}
+
+.location {
+    width: 8vw;
+}
+
+.third-page-location-para {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Bree serif";
+    padding: 6px;
+    padding-left: 10px;
+}
+
+.third-page-heading {
+    font-size: 22px;
+    font-family: "Bree serif";
+    color: #f19116;
+}
+
+.third-page-para {
+    color: #ffffff;
+    font-family: "Bree serif";
+    font-size: 12px;
+}
+
+.third-page-button-container {
+    text-align: center;
+}
+
+.third-page-button {
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 5px;
+    font-size: 12px;
+    border-width: 0px;
+    padding: 5px;
+    height: 27px;
+    width: 70px;
+    margin: 5px;
+}
