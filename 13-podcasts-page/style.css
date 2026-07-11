@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.homepage-top-section {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 35vh;
+    background-size: cover;
+}
+
+.podcasts-heading {
+    color: white;
+    font-size: 32px;
+    padding: 18px;
+    font-weight: 400;
+}
+
+.homepage-bottom-section {
+    text-align: center;
+    padding: 28px;
+}
+
+.podcasts-card-image {
+    width: 130px;
+
+}
+
+.podcasts-card-container {
+    margin: 10px;
+
+}
+
+.podcasts-card-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #151765;
+    font-size: 16px;
+
+}
+
+.podcasts-card-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #5a7184;
+}
+
+.episode-top-section {
+    background-color: #151765;
+    height: 30vh;
+    padding: 30px;
+}
+
+.episode-top-section-text-container {
+    margin-left: 16px;
+    width: 200px;
+}
+
+.episode-podcast-title {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: white;
+}
+
+.episode-podcast-heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+.episode-podcast-para {
+    color: white;
+    font-size: 12px;
+    font-family: "Roboto";
+}
+
+.episode-bottom-section {
+    padding: 12px;
+}
+
+.episode-bottom-heading {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: #151765;
+    font-weight: bold;
+}
+
+.episode-bottom-para {
+    color: #5a7184;
+    font-size: 12px;
+    font-family: "Roboto";
+}
+
+.episode-bottom-min {
+    color: #5a7184;
+    font-size: 12px;
+    font-family: "Roboto";
+
+}
+
+.episode-bottom-text-container {
+    margin-left: 16px;
+    width: 200px;
+}
+
+.button-container {
+    text-align: right;
+}
+
+.button {
+    color: white;
+    background-color: #151765;
+    border-radius: 18px;
+    width: 70px;
+    font-size: 12px;
+}
