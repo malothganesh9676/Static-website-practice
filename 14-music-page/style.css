@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.homepage-bg-container {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    height: 150vh;
+    background-size: cover;
+    text-align: center;
+    padding: 20px;
+    padding-top: 90px;
+}
+
+.music-title {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Bree Serif";
+}
+
+.music-description {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 13px;
+}
+
+.image-card {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 180px;
+    width: 330px;
+    background-size: cover;
+    border-radius: 10px;
+
+}
+
+.island-heading {
+    color: #ffe7bf;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    padding: 65px;
+
+}
+
+.island-para {
+    color: #ffffff;
+    font-size: 13px;
+    font-family: "Bree Serif";
+}
+
+.button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    font-family: "Bree serif";
+    font-size: 13px;
+    height: 28px;
+    width: 100px;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.music-details-bg-container {
+    background-color: #03174c;
+
+}
+
+.sleep-image {
+    width: 100vw;
+}
+
+.music-details-container {
+    padding: 10px;
+}
+
+.music-heading {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.music-para {
+    color: #98a1bd;
+    font-size: 14px;
+    font-family: "Bree Serif";
+}
+
+.related-sub-heading {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Bree serif";
+}
+
+.related-card {
+    margin-right: 10px;
+}
+
+.related-image {
+    width: 40vw;
+    margin-bottom: 3px;
+}
+
+.related-para {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
