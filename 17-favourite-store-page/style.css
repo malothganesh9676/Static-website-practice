@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.store-bg-container {
+    background-color: #894bca;
+    height: 100vh;
+}
+.store-image {
+    width: 40vw;
+}
+.store-heading {
+    color: white;
+    font-size: 24px;
+    font-family: "Bree Serif";
+    width: 120px;
+    padding: 20px;
+}
+.company-app-container {
+    background-color: white;
+    padding: 28px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.container-heading {
+    color: #f780c3;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.app-image {
+    height: 50px;
+}
+.app-heading {
+    font-size: 18px;
+    color: #323f4b;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.app-para {
+    font-size: 13px;
+    color: #7b8794;
+    font-family: "Roboto";
+    
+}
+.text-container {
+    margin-left: 20px;
+}
